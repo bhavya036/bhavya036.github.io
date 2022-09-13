@@ -163,7 +163,7 @@ section .title::after{
     display: flex;
     background: url("https://wallpaperaccess.com/full/3592477.png") no-repeat center;
     height: 100vh;
-    color:#C0C0C0;
+    color:#FFFFFF;
     min-height: 500px;
     background-size: cover;
     background-attachment: fixed;
